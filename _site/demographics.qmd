@@ -79,7 +79,7 @@ x %>%
 
 }
 
-
+# debugonce(get_targ_perc)
 age_targeting <- election_dat30 %>%
     group_split(party) %>%
     map_dfr(get_targ_perc, "age") %>%
