@@ -4,6 +4,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 3bc14039-f643-4407-8cc8-47aa42424255,Ponani Makhubele,2023-08-27T05:08:46.054Z,a8dc4d6a-8317-4bea-839d-fa90742ad9c9,ANC,South Africa,za,106824162393296,Ponani Makhubele,Facebook
 3c72dd50-f05d-4b2d-aa2f-8b2c3605cd4e,African National Congress - Northern Cape Province,2023-02-21T10:55:27.963Z,b4dacaab-dd03-4b27-895d-6607ae2e233b,ANC,South Africa,za,151042501616806,African National Congress - Northern Cape Province,Facebook
 4e4e916f-851e-433f-8fcc-14baa1b2abb6,ANC Gert Sibande Region,2023-11-23T09:30:18.074Z,78a2cf09-fefd-479a-8def-a4fea9f697cc,ANC,South Africa,za,106323922536466,ANC Gert Sibande Region,Facebook
+66355262-8d84-411e-8fea-f4962ea79af9,Bathabile Dlamini for ANCWL President,2023-04-14T08:50:49.827Z,f7dd58bc-9c70-41d3-aed4-850357e33ceb,ANC,South Africa,za,106426589071573,Bathabile Dlamini for ANCWL President,Facebook
 bc475d08-f6ea-4fde-8efb-d42bd654e5ce,Sihle Zikalala,2023-05-06T06:55:13.728Z,cfb4d402-4937-40aa-8f72-79c033081eb4,ANC,South Africa,za,434577883273454,Sihle Zikalala,Facebook
 de83441a-2aee-4e83-9f59-8eb933519435,ANC KwaZulu-Natal,2023-04-29T06:55:28.146Z,4f59f198-dbe2-439f-8f47-38785e1598cc,ANC,South Africa,za,208689879164310,ANC KwaZulu-Natal,Facebook
 fccd3557-dd0e-4167-9b5b-bb7d527cbeff,Philly Mapulane,2023-08-13T05:09:45.751Z,3f8d13b1-6e76-4a60-812c-1cc51689661f,ANC,South Africa,za,106913565272963,Philly Mapulane,Facebook
@@ -11,12 +12,14 @@ fccd3557-dd0e-4167-9b5b-bb7d527cbeff,Philly Mapulane,2023-08-13T05:09:45.751Z,3f
 0b74ffbf-ba44-4d85-a0b0-59b3c2b5d6e3,Democratic Alliance Gauteng,2023-02-13T10:55:37.886Z,7464bd40-ed09-4f94-bdaf-b8568f917139,DA,South Africa,za,448191278579586,Democratic Alliance Gauteng,Facebook
 0c7a97ac-5e21-44d6-b9a1-352b956fa551,Democratic Alliance Cradock,2023-05-09T06:55:25.521Z,5d5a49d9-8eb9-4aea-b2db-a5167e60486d,DA,South Africa,za,101945665055819,Democratic Alliance Cradock,Facebook
 0cd3a682-204e-43b7-bd48-9105ac368431,Democratic Alliance Setsoto Municipality,2023-11-17T04:05:29.283Z,36fc8a07-1dcd-4382-ba3c-c49884165553,DA,South Africa,za,920686328100396,Democratic Alliance Setsoto Municipality,Facebook
+1c18aa26-198d-4fcc-9cee-45ca0402da1d,DA Ward 20 Mogale,2023-11-14T12:28:46.767Z,cebcf1b7-8728-4a3c-8628-06a9dbc3c919,DA,South Africa,za,102211891683343,DA Ward 20 Mogale,Facebook
 1dbe932f-809f-484d-92ab-bb7160d95817,"Andrew Whitfield, MP",2023-04-01T10:55:19.575Z,f2cc6fca-2408-4762-b724-6c7ff422ac1d,DA,South Africa,za,2086579854976264,"Andrew Whitfield, MP",Facebook
 27a68379-8a96-42c4-831c-3003340e37e8,Ward 6 - Nelson Mandela Bay,2023-04-26T06:55:41.470Z,53d044c3-f6bc-424a-94e2-b8b127e6ea6a,DA,South Africa,za,1414011178643612,Ward 6 - Nelson Mandela Bay,Facebook
 27d86692-2a93-4abe-9379-4860db5cf8eb,Democratic Alliance Good Hope Constituency,2023-03-08T19:06:19.618Z,64ce6efe-7ff3-40bb-9f53-eec953e49940,DA,South Africa,za,138542992992786,Democratic Alliance Good Hope Constituency,Facebook
 2c491780-1d09-418e-8cd0-a27619bcfc0f,DA KZN,2023-02-14T10:55:35.332Z,c40829c3-be0a-4d1f-a88b-7224bea035a1,DA,South Africa,za,178713262328364,DA KZN,Facebook
 32005506-7488-402e-8c32-d70cfdc71b2e,Democratic Alliance - Winterhoek Constituency - Uitenhage,2023-10-29T05:09:21.551Z,c34adbe3-7df2-4fc0-8c2c-b288670d0045,DA,South Africa,za,344618812954270,Democratic Alliance - Winterhoek Constituency - Uitenhage,Facebook
 33bb1be0-eb03-49db-85bc-0eb327daffbe,Democratic Alliance Youth Free State,2023-03-09T10:55:48.823Z,be840a4e-68b5-44e1-a067-b2822cb713dc,DA,South Africa,za,618787431488714,Democratic Alliance Youth Free State,Facebook
+35dd791d-3e64-4050-9079-c8947b3e63ca,Premier Alan Winde,2023-06-26T05:10:24.414Z,8b87e4d9-c8a5-4179-9226-0dbb8acf3ad2,DA,South Africa,za,584566048684873,Premier Alan Winde,Facebook
 376fdf60-299d-49c5-a6bc-d9de5f755632,DA Sundays River Valley - Zuurberg,2023-10-02T05:08:36.800Z,7e710540-71eb-4f9b-bc1d-cdd8f618c4ff,DA,South Africa,za,219459955135757,DA Sundays River Valley - Zuurberg,Facebook
 3d547ea5-9b26-41bb-a603-df050db67f4c,Democratic Alliance,2023-02-07T15:04:59.747Z,343f2422-8474-444f-a8b7-aa65c541d5d7,DA,South Africa,za,6011868110,Democratic Alliance,Facebook
 3f3c25ca-b0c4-4886-bd08-7ad2da08f0bf,Ward 40 - Nelson Mandela Bay,2023-04-26T06:55:41.471Z,2b03bf34-4079-4f17-837f-2bd11049af98,DA,South Africa,za,100558052310108,Ward 40 - Nelson Mandela Bay,Facebook
@@ -28,6 +31,7 @@ fccd3557-dd0e-4167-9b5b-bb7d527cbeff,Philly Mapulane,2023-08-13T05:09:45.751Z,3f
 47a41eed-4ca7-4913-acd1-99ac330fa961,DA Gauteng,2023-03-21T10:55:27.252Z,43baa67f-cc48-4b1f-8cfa-bcb027a396b8,DA,South Africa,za,336794296437261,DA Gauteng,Facebook
 4890efcc-413b-44b5-b5ea-94886f594b75,DA Mosselbaai Wyk 8,2023-02-08T05:55:36.373Z,e0a3732e-ced2-436a-b3ea-b1d0dba8dbba,DA,South Africa,za,1408620202688442,DA Mosselbaai Wyk 8,Facebook
 4afa3067-ff3f-465f-a140-bbe694dd9bfe,Democratic Alliance Free State,2023-02-08T06:23:02.560Z,f4cdbb78-d1de-4d74-a19e-b61cc78d7471,DA,South Africa,za,597918073626793,Democratic Alliance Free State,Facebook
+4b0e0bcc-3e62-461f-90de-681940835507,Ward 1 Cape Town-Councillor Cheryl Visser,2023-09-02T05:08:44.019Z,114ceb94-f293-4c70-ba81-fcbbc075d1c2,DA,South Africa,za,105538717485071,Ward 1 Cape Town-Councillor Cheryl Visser,Facebook
 51aeac9a-44bc-4b61-836a-e907ad3ad0a7,Democratic Alliance Buffalo City,2023-03-08T18:55:32.635Z,4b1529a1-ad53-4d78-8d83-edff5bd3e5f3,DA,South Africa,za,1501357930107569,Democratic Alliance Buffalo City,Facebook
 5962e287-d774-4916-b54d-64486f183888,DA Ndlambe,2023-04-17T08:01:49.892Z,87920957-2656-4625-a585-344547937992,DA,South Africa,za,696300980415401,DA Ndlambe,Facebook
 5ad41d4b-fb2e-489d-bfed-93c2b36a66f3,Democratic Alliance Eastern Cape,2023-02-07T15:05:00.485Z,2c92e676-216a-4c37-9a1b-4be3ca1ee161,DA,South Africa,za,153698181363705,Democratic Alliance Eastern Cape,Facebook
@@ -40,6 +44,7 @@ fccd3557-dd0e-4167-9b5b-bb7d527cbeff,Philly Mapulane,2023-08-13T05:09:45.751Z,3f
 723c3f38-d913-4b5f-bf8e-cf52dab7a1ef,Democratic Alliance - Northern Areas,2023-02-13T10:55:37.858Z,c6562ad7-1cfd-46af-93fa-9d3ad106afae,DA,South Africa,za,2215254718532346,Democratic Alliance - Northern Areas,Facebook
 73807fc6-e226-4850-a62a-04232b8b8db3,DA Atlantic Seaboard Ward 54,2023-02-10T10:55:36.331Z,ffb245e9-58fb-414a-a2fe-c9938205cfcb,DA,South Africa,za,113978755978036,DA Atlantic Seaboard Ward 54,Facebook
 73fb9226-0792-42f5-bb18-d9d28e1b7c8c,DA Enoch Mgijima Constituency,2023-11-14T12:28:46.763Z,6ddd6f50-c9b1-4204-9870-882b9cff59b4,DA,South Africa,za,512166072501361,DA Enoch Mgijima Constituency,Facebook
+77e06781-b243-406c-b86a-cdbbeafbf354,DA KZN Legislature - Woza2024,2023-12-02T17:17:22.047Z,62536315-6eb3-4d58-93ee-e0d70861c3c0,DA,South Africa,za,102516336281034,DA KZN Legislature - Woza2024,Facebook
 7e68f02d-ab25-4956-bdd3-171e1aa1441d,DASO Nelson Mandela University,2023-10-14T05:08:52.870Z,3cd65e58-cbb8-47e6-94b0-afc73e400c18,DA,South Africa,za,257670787743069,DASO Nelson Mandela University,Facebook
 7ff532d3-8a17-4610-9b5d-6c41682b397b,Democratic Alliance Mantsopa Municipality,2023-08-18T05:09:15.726Z,871f9fd0-67a6-417c-a825-6ddd9f69a9e7,DA,South Africa,za,415447331914974,Democratic Alliance Mantsopa Municipality,Facebook
 851dcf0c-a127-419a-8503-97ed9a24aea2,Mayor Horatio Hendricks,2023-03-13T10:55:30.955Z,cb7316ca-9c63-4878-9565-7af3bd86dd90,DA,South Africa,za,119172967778005,Mayor Horatio Hendricks,Facebook
@@ -49,6 +54,7 @@ fccd3557-dd0e-4167-9b5b-bb7d527cbeff,Philly Mapulane,2023-08-13T05:09:45.751Z,3f
 907324bc-2454-4be6-8130-40084ff7f5d2,DA City Bowl Branch - Ward 77,2023-03-08T19:06:19.584Z,d2e37df8-56b8-4b37-ad91-87beb734dd94,DA,South Africa,za,248717515199166,DA City Bowl Branch - Ward 77,Facebook
 92641b1e-8142-4593-b7db-6d78f7bb0880,ACDP Western Cape,2023-03-31T10:55:46.842Z,1cd32115-e7b1-457a-bce8-afeefe0612b8,DA,South Africa,za,153911331339003,ACDP Western Cape,Facebook
 939a92ad-aa95-40a9-becf-2df12ac3497a,DA Blue Crane Route,2023-03-08T15:57:00.670Z,917051a6-02e3-40c7-b400-1df069f03589,DA,South Africa,za,1177860575608336,DA Blue Crane Route,Facebook
+99ed7088-84ec-40d0-95ab-2aded76f4671,Retief Odendaal NMB,2023-11-21T07:03:13.248Z,9710c605-979c-4bab-98a5-7f125739f537,DA,South Africa,za,108067170798815,Retief Odendaal NMB,Facebook
 a4c8d3f5-c4f1-4d2f-8e5a-726aceb9f8b2,Democratic Alliance Northern Cape,2023-02-20T10:55:34.976Z,098e5ff6-9b20-4744-be5f-3457d8731839,DA,South Africa,za,182843381896565,Democratic Alliance Northern Cape,Facebook
 a552807f-aba8-4d51-9ad1-526154930c93,Ward 3 - Nelson Mandela Bay,2023-04-26T06:55:41.473Z,0eb60726-6973-4813-99dd-c3fc402c3e7e,DA,South Africa,za,1195567760528973,Ward 3 - Nelson Mandela Bay,Facebook
 ab1309aa-848d-48ae-b982-a5807d7dbf9b,Vicky Knoetze MPL,2023-05-29T06:54:58.734Z,7331f072-ec7d-4f4d-a44e-a94aeff2cf0a,DA,South Africa,za,106241164479590,Vicky Knoetze MPL,Facebook
@@ -63,8 +69,10 @@ d32f359f-09b3-4cd6-b7d0-f9233f1fcb72,Democratic Alliance - Ithemba Constituency,
 d51b82a5-f746-45b0-b869-4364b8cf619b,DA Free State Future Leaders Programme,2023-02-17T10:55:23.079Z,3fff1972-6926-4f0a-af72-86bbaee0195f,DA,South Africa,za,104692291218239,DA Free State Future Leaders Programme,Facebook
 d7abdc85-8866-463c-b952-a938f346b3f1,Democratic Alliance - Dr Beyers Naude,2023-10-08T05:09:17.677Z,c36e6d7e-ef5d-49a9-a4ba-546569166010,DA,South Africa,za,103026604639003,Democratic Alliance - Dr Beyers Naude,Facebook
 dda319ee-6e7f-4644-9355-1870cbcade5d,Democratic Alliance Koukamma,2023-11-06T06:02:13.049Z,88bea232-c039-4633-86a7-fd726461b698,DA,South Africa,za,302547023620740,Democratic Alliance Koukamma,Facebook
+def96993-a640-48bc-b61d-f541fa6707fe,Katherine Christie Ward 58 Cape Town,2023-04-04T10:55:48.996Z,d51323b7-3ffb-435b-bf93-cfd19e05c32d,DA,South Africa,za,108696624969728,Katherine Christie Ward 58 Cape Town,Facebook
 e12f85d6-d90c-48b9-872b-348f3303f49a,Democratic Alliance Ngwathe Municipality,2023-07-31T11:09:02.225Z,705d1a1b-dd8f-4f47-b3a1-469c6771506c,DA,South Africa,za,456190681258118,Democratic Alliance Ngwathe Municipality,Facebook
 e4e64ebe-6207-4f63-9848-0e1ac07c83e1,Democratic Alliance Western Cape,2023-02-07T15:04:59.997Z,388667c8-68de-4fe0-9fe1-121a85111d8d,DA,South Africa,za,1613030308842801,Democratic Alliance Western Cape,Facebook
+e6d6de48-90af-4f06-82f9-83559272f566,"Councillor Kabelo Mogatosi, Nelson Mandela Bay",2023-08-28T05:08:35.984Z,679cbe17-ebaa-450d-9509-304355b78c8c,DA,South Africa,za,108044118507266,"Councillor Kabelo Mogatosi, Nelson Mandela Bay",Facebook
 e887d74e-5a12-4f0b-9d5f-c1fb955cdefd,Democratic Alliance Youth,2023-06-19T18:27:02.569Z,8ae0a09e-cbd5-439e-9f11-90b435589e7f,DA,South Africa,za,107147472660409,Democratic Alliance Youth,Facebook
 eb291761-97d8-451a-ba19-53790e02acf5,Democratic Alliance Tygerberg 3 Constituency,2023-06-13T06:55:26.265Z,f750f45d-bac8-4c3d-beaa-0c2db1480975,DA,South Africa,za,102504109442510,Democratic Alliance Tygerberg 3 Constituency,Facebook
 ec9aab23-7f08-441d-8318-cedd1c1cc3df,Ward 2 - Nelson Mandela Bay,2023-04-26T06:55:41.470Z,c09df476-dfc9-4b3f-a794-a2119b469ed6,DA,South Africa,za,1559519440983416,Ward 2 - Nelson Mandela Bay,Facebook
@@ -96,13 +104,25 @@ cd360e8a-b55a-49b1-8d86-3f49b55ebebb,VF Plus Amy Steyn - Mogale City,2023-08-31T
 e60e2ff6-eddb-42ae-aa8d-95d850ec567a,VF Plus - Vrystaat,2023-03-12T10:55:47.401Z,e84392c8-1298-47a6-be73-ade9b1afd1a9,VF+,South Africa,za,259922021421962,VF Plus - Vrystaat,Facebook
 d016d4e6-cf55-47c1-b625-4ee03db192e2,ACDP,2023-02-10T10:55:36.344Z,dadfcdde-92d5-4c57-94fb-f94572c254d1,ACDP,South Africa,za,379138726819,ACDP,Facebook
 2145b43d-1923-4e56-8f07-af25bbd8b7be,Patriotic Alliance Youth League Ward 57 Ekurhuleni,2023-07-08T06:09:36.950Z,e3b99417-9300-4f8d-b007-f1cd32f39091,Oth,South Africa,za,104740372663053,Patriotic Alliance Youth League Ward 57 Ekurhuleni,Facebook
+2fedddc4-ad23-4993-985a-f72003b74423,Pan Africanist Congress of Azania,2023-03-08T20:21:02.036Z,861eaeeb-c66c-402a-9fc1-db1abe6642c9,Oth,South Africa,za,105472017777398,Pan Africanist Congress of Azania,Facebook
+44407d47-8134-469a-bd6f-90e96c5722a3,Makana Citizens Front,2023-05-23T06:55:41.158Z,3f6d6adf-64b7-4318-b86a-c282bdc05eed,Oth,South Africa,za,100859505668996,Makana Citizens Front,Facebook
+6428b45d-0acc-4e3b-846e-be2b5899aec0,Welkom/Dagbreek Patriotic Allinance,2023-11-15T05:08:55.335Z,ce877554-12b2-461b-a971-bcd146ab134e,Oth,South Africa,za,621759934941483,Welkom/Dagbreek Patriotic Allinance,Facebook
+747997e5-2efc-4a37-9b66-1c2347e21492,Afrika Unite Congress,2023-11-17T06:48:51.334Z,52e756cf-8467-4008-9f37-98c33091f048,Oth,South Africa,za,160289550498625,Afrika Unite Congress,Facebook
 97b621d9-84d8-4371-a829-01e89ac2b477,Good,2023-02-07T15:04:59.937Z,20a56373-07dc-4761-961b-d3f324531fb1,Oth,South Africa,za,581475018952196,Good,Facebook
 9d8585b3-72de-46ab-a8c0-b7ca27c684d0,IZWE LETHU PARTY,2023-02-07T15:05:00.518Z,03e5fdde-7649-40c0-9a31-5d3844b6c29b,Oth,South Africa,za,103131862424141,IZWE LETHU PARTY,Facebook
+9e4c4561-39ec-4cbe-8d22-a10eca4c256c,Action SA - Limpopo,2023-11-23T09:30:18.126Z,8c33d88e-c7c3-4779-b3a0-ca85e22f6a5f,Oth,South Africa,za,109397408508888,Action SA - Limpopo,Facebook
+a2d57b1c-3998-4906-a621-4139b8396f6c,Herman Mashaba,2023-02-28T10:55:43.566Z,b0028b9d-5457-48a7-87f3-9e0a38a6d598,Oth,South Africa,za,817419378298114,Herman Mashaba,Facebook
+ab1bdb19-e201-4d3c-9eef-0636d994855a,Action SA Eastern Cape,2023-10-31T05:46:08.832Z,0b5c1fd3-b1ac-47bb-9157-1fa53dac128a,Oth,South Africa,za,108053222060253,Action SA Eastern Cape,Facebook
 abff5024-3e6d-4c75-9114-eee3cd4f75bd,Al Jama-ah,2023-02-08T05:55:36.345Z,3f876899-1e9d-452b-aa03-4a93de927e8b,Oth,South Africa,za,102265308016316,Al Jama-ah,Facebook
+af026cae-2d91-4e79-a0a5-79229e663736,RISE Mzansi,2023-10-16T05:09:08.494Z,df968782-627a-42a0-be73-7ce1bf17153b,Oth,South Africa,za,100326729576675,RISE Mzansi,Facebook
+c497a79e-f7fe-469c-8f5e-eb1e80adf96a,Councillor Yusuf Mohamed - Ward 57,2023-06-23T05:18:47.526Z,27597a97-b424-47aa-aa2f-ab10ebfadf18,Oth,South Africa,za,106529191798468,Councillor Yusuf Mohamed - Ward 57,Facebook
 cd461cf3-0059-4e11-8d46-180802490f6f,Vote Dr Sipho P. Malapane 2024,2023-02-11T10:55:14.533Z,ca7fd4a3-69c6-44d1-a7aa-f1cc6ea152cd,Oth,South Africa,za,614441158766955,Vote Dr Sipho P. Malapane 2024,Facebook
+d01f0d41-467d-4a83-84a0-9191a1c9034b,Rise Mzansi Mabopane,2023-09-18T05:08:52.613Z,cc68f054-e9b7-4ae1-895a-afc9a5a20ea4,Oth,South Africa,za,113163165213112,Rise Mzansi Mabopane,Facebook
 f01e50e8-3ee3-444c-92af-27adec073acc,Cape Independence Party - Vote Capexit,2023-07-03T06:17:57.036Z,c36117dc-dee5-4e89-adeb-13a808dd1a45,Oth,South Africa,za,10150139011205084,Cape Independence Party - Vote Capexit,Facebook
 0850750e-310e-4924-8f85-9ad4b57c872a,NORTH WEST Provincial Government,2023-02-21T10:55:27.999Z,d383ad16-7b04-4b30-a384-3eddc8bc3558,Gov,South Africa,za,936419253051840,NORTH WEST Provincial Government,Facebook
 198a1192-337f-4ada-aa4a-83e086b48413,Department of Home Affairs,2023-06-15T06:55:14.219Z,f7d7be1b-43c8-49aa-a1c7-1b10f8c9f6b4,Gov,South Africa,za,106031142512759,Department of Home Affairs,Facebook
 9042e0d0-37ab-445c-962e-355ef561b84a,Western Cape Government,2023-02-07T15:04:59.835Z,86cce12e-06ac-422a-bf79-d8b1a1d714d6,Gov,South Africa,za,740116816003959,Western Cape Government,Facebook
 d3ebc436-164f-4275-bdaa-3df2f6cdba27,Parliament of the Republic of South Africa,2023-02-07T15:04:59.729Z,0c7b444e-97bd-4f06-8211-b3cb1aa558c4,Gov,South Africa,za,225941290782035,Parliament of the Republic of South Africa,Facebook
+dbaf6a4e-25c3-494c-8d26-825005e5b24d,Dr Blade Nzimande,2023-11-28T07:39:40.341Z,50764f82-a79e-4987-97bf-10cb4576bfb0,Gov,South Africa,za,583103361842265,Dr Blade Nzimande,Facebook
+e594142b-413f-4c62-a060-c41ac6316717,Department of Water and Sanitation South Africa,2023-11-17T06:48:51.297Z,99094c83-b086-489c-9084-cd075d500af6,Gov,South Africa,za,358792120941804,Department of Water and Sanitation South Africa,Facebook
 f0d3a245-90a1-4fa2-abbc-31178163d4dd,Western Cape Provincial Parliament,2023-02-07T15:04:59.899Z,8b0341fb-2d1c-48b8-9ced-cd93889f8170,Gov,South Africa,za,1479166275635514,Western Cape Provincial Parliament,Facebook
